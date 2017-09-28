@@ -23,9 +23,7 @@ public class LAB3SCM {
                 System.out.println("This is Nour's Feature!!");
     }
         public void AddFeatureAmel (){
-            while (true)
-            {
-                System.out.printlln("This is Amel's Feature!!");
-            }
+
+                System.out.println("This is Amel's Feature!!");
     }
 }
