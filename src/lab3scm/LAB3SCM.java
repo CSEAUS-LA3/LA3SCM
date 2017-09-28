@@ -19,4 +19,8 @@ public class LAB3SCM {
         System.out.println("Hello World!");
     }
     
+    public void AddFeatureNour (){
+                System.out.println("This is Nour's Feature!");
+    }
+    
 }
