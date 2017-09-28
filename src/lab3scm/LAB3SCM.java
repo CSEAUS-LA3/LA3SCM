@@ -22,5 +22,8 @@ public class LAB3SCM {
     public void AddFeatureNour (){
                 System.out.println("This is Nour's Feature!!");
     }
+        public void AddFeatureAmel (){
+                System.out.println("This is Amel's Feature!!");
+    }
     
 }
