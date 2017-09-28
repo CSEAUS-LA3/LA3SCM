@@ -23,7 +23,9 @@ public class LAB3SCM {
                 System.out.println("This is Nour's Feature!!");
     }
         public void AddFeatureAmel (){
-                System.out.println("This is Amel's Feature!!");
+            while (true)//inifite loop
+            {
+                System.out.printlln("This is Amel's Feature!!");//suntax error
+            }
     }
-    
 }
